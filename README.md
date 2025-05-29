@@ -1,1 +1,1 @@
-# testcase
+algorithm 문제 풀 때, 작성한 함수의 testcase를 확인하거나, 여러 함수의 실행 시간을 비교할 수 있는 간단한 라이브러리
